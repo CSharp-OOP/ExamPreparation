@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8aujAAdLhbP52vIAhBG5PVo4SWVmWx/RGWFBV6WglKgAvcL0K+MNoFZPDNO6ffkCPHEZdheVqRO81M009DvoBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rchaushev001\\source\\repos\\C-Sharp_OOP_RetakeExam - 12 December 2020\\BankSafe\\BankSafe\\BankSafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
