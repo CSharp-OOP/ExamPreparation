@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
