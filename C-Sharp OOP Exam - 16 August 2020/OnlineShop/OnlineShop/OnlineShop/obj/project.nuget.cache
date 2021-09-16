@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAvvQP6QQv77v8wbQaDxBAYAvy0tfuJTEXVZTxi4KW5NheCJjAVNNvmwcJ0hue97v1uQVoVhOlRkDt/R63lnDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rchaushev001\\source\\repos\\C-Sharp OOP Exam - 16 August 2020\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
