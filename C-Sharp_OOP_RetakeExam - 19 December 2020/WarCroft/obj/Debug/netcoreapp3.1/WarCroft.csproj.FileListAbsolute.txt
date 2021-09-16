@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2020\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache
