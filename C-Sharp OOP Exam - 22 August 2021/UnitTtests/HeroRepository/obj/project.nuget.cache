@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "27yJhPABWYQIZnZd1KyRR8tQmLs5dxDeH4nqeDOaKw3DJLtnOW2qt/aPkSo1OmugLKxv4S54v6VGpyQ8gSyQKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rchaushev001\\source\\repos\\C-Sharp OOP Exam - 22 August 2021\\UnitTtests\\HeroRepository\\HeroRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
