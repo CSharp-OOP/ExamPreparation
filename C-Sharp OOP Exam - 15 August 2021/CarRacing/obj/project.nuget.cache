@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDdjkP+3fxWOHaMUO6A2N2H15BX0R8COryHILI4fFderlqUDouGoc2ws4puNW5FFMel5ftEpIneV6gnfG6DRCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rchaushev001\\source\\repos\\C-Sharp OOP Exam - 15 August 2021\\SecondCarRacing\\CarRacing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
