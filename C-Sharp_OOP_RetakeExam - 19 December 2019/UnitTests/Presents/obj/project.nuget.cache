@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tcy0KvVQhSItKSmD/R5C4Pv9Z+0JCe6wLBHPVdTvQSkjYuAQyWRExK/8bI7R+xLi7pOKVRJ6fcqTNebSGWQUkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rchaushev001\\source\\repos\\C-Sharp_OOP_RetakeExam - 19 December 2019\\UnitTests\\Presents\\Presents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
