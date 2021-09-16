@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 22 August 2021\Space Station\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache
