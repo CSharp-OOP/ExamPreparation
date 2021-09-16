@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.exe
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.deps.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.dll
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.dll
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 19 December 2019\SantaWorkshop\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.genruntimeconfig.cache
