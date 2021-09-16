@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp_OOP_RetakeExam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

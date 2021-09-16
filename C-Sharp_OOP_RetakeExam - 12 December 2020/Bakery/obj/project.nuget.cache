@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNC54AnI0mT2nxvLOLZ3fbhF85ap/8L7aShfxxU4Zr0OKu0Gh7b1aNbgkl6YlrpUPU2PlN8gN/SuFEruIiLiPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rchaushev001\\source\\repos\\C-Sharp_OOP_RetakeExam - 12 December 2020\\Bakery\\Bakery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
