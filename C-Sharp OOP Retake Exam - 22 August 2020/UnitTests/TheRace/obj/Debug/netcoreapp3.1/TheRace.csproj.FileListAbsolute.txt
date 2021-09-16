@@ -1,0 +1,9 @@
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\rchaushev001\source\repos\C# OOP Retake Exam - 22 August 2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
