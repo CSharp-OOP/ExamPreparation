@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r4VfYUau9HlMkqjrKV073CfytpI84OcZ970h76gG6q/t0d2+hiFXUtqhtQevbRTeHj4ZjaJVn7KX0O/x+Gb8VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rchaushev001\\source\\repos\\C-Sharp_OOP_RetakeExam - 19 December 2020\\UnitTests\\FestivalManager\\FestivalManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
