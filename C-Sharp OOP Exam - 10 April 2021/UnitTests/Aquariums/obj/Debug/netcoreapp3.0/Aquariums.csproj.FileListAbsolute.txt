@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\rchaushev001\source\repos\C-Sharp OOP Exam - 10 April 2021\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
