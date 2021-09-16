@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsKMbbMgVPS87Cazj792aHCPqw0YxLRPfObq5xOfE5ZDMD43ePCsEwB40PSXK7q1oJLmg1p68WceNrYRjvPXog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rchaushev001\\source\\repos\\C# OOP Retake Exam - 22 August 2020\\EasterRaces\\EasterRaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rchaushev001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
